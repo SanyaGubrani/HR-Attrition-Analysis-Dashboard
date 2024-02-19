@@ -44,7 +44,7 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 6. How does monthly salary affect attrition? Does low salary lead to high attrition?
 7. Is there a relationship between overtime work and attrition?
 8. Is there a difference in attrition rates between high-performance and low-performance employees?
-9. How does the work-life balance affect attrition? Do employees tend to quit when work-life balance is low?
+9. How does the work-life balance affect attrition? Do employees tend to quit when work-life balance is challenging?
 
 ## Dashboard
 
