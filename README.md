@@ -46,9 +46,10 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 8. Is there a difference in attrition rates between high-performance and low-performance employees?
 9. How does the work-life balance affect attrition? Do employees tend to quit when work-life balance is low?
 
+## Dashboard
+
+![2024-02-18 (2)](https://github.com/SanyaGubrani/HR-Attrition-Analysis-Dashboard/assets/127206660/0774c18f-4711-4728-97b5-3e3de95024d9)
+
 ## Conclusion
 
 The analysis highlights areas where targeted interventions can enhance employee retention. By addressing factors like work-life balance and compensation, implementing strategies to support employees in high-turnover roles, and fostering a supportive work environment, the company can reduce attrition rates and improve organizational stability. Proactive measures aligned with these insights can lead to a more engaged and committed workforce, ultimately contributing to long-term success.
-
-
-![2024-02-18 (2)](https://github.com/SanyaGubrani/HR-Attrition-Analysis-Dashboard/assets/127206660/0774c18f-4711-4728-97b5-3e3de95024d9)
