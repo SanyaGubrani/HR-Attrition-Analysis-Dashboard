@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HR-Attrition-Analysis-Dashboard
-
-=======
 # HR-Attrition-Analysis-Dashboard
 
 
@@ -57,4 +53,3 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 ## Conclusion
 
 The analysis highlights areas where targeted interventions can enhance employee retention. By addressing factors like work-life balance and compensation, implementing strategies to support employees in high-turnover roles, and fostering a supportive work environment, the company can reduce attrition rates and improve organizational stability. Proactive measures aligned with these insights can lead to a more engaged and committed workforce, ultimately contributing to long-term success.
->>>>>>> fb6cde2b4f8ee3fe9368e2afe738873b5632a5e7
