@@ -41,7 +41,7 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 3. How does attrition vary across different departments?
 4. Which job roles have the highest attrition rates?
 5. What is the correlation between years of service at the company and attrition?
-6. How does monthly salary affect attrition? Does low salary lead to high attrition?
+6. How does monthly salary affect attrition? Does a low salary lead to high attrition?
 7. Is there a relationship between overtime work and attrition?
 8. Is there a difference in attrition rates between high-performance and low-performance employees?
 9. How does the work-life balance affect attrition? Do employees tend to quit when work-life balance is low?
