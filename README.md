@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# HR-Attrition-Analysis-Dashboard
-
-=======
 # HR-Attrition-Analysis-Dashboard
 
 
