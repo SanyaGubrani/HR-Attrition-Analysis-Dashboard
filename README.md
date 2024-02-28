@@ -22,7 +22,7 @@ The dataset, sourced from Kaggle, IBM HR Analytics Employee Attrition & Performa
    - Utilized Power BI Desktop and Data Analysis Expressions (DAX) to create key performance indicators (KPIs) such as attrition rate, department-wise turnover, etc.
 
 4. **Dashboard Creation:**
-   - Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate exploration and understanding of employee attrition patterns.
+   - Developed an interactive dashboard in Power BI Desktop to visualize the analysis results. The dashboard includes various visualizations, filters, and slicers to facilitate the exploration and understanding of employee attrition patterns.
 
 
 ## Installation/Usage
