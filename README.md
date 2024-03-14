@@ -1,5 +1,8 @@
 # HR-Attrition-Analysis-Dashboard
 
+## Dashboard
+
+![2024-02-18 (2)](https://github.com/SanyaGubrani/HR-Attrition-Analysis-Dashboard/assets/127206660/0774c18f-4711-4728-97b5-3e3de95024d9)
 
 ## Objective
 
@@ -45,10 +48,6 @@ To use the HR Attrition Analysis Dashboard, follow these steps:
 7. Is there a relationship between overtime work and attrition?
 8. Is there a difference in attrition rates between high-performance and low-performance employees?
 9. How does the work-life balance affect attrition? Do employees tend to quit when work-life balance is low?
-
-## Dashboard
-
-![2024-02-18 (2)](https://github.com/SanyaGubrani/HR-Attrition-Analysis-Dashboard/assets/127206660/0774c18f-4711-4728-97b5-3e3de95024d9)
 
 ## Conclusion
 
